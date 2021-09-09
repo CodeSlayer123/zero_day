@@ -1,0 +1,1 @@
+Making sure git and github is set up.
