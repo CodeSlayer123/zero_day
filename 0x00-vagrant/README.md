@@ -1,0 +1,1 @@
+This is the second readme of 000. I created another directory inside zero_day named 0x00-vagrant and created a file named 0-hello_ubuntu
